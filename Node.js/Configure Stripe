@@ -1,0 +1,3 @@
+const Stripe = require('stripe');
+const stripe = new Stripe('YOUR_SECRET_KEY'); // Replace with your Stripe secret key
+module.exports = stripe;
