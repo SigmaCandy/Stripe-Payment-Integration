@@ -1,0 +1,8 @@
+npm install stripe express body-parser
+E-Commerce-Platform/
+└── src/backend/
+    ├── app.js
+    ├── routes/
+    │   └── payment.js
+    └── config/
+        └── stripe.js
